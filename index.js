@@ -1,7 +1,7 @@
-add()
+add(number++)
 
-subtract()
+subtract(number--)
 
-multiply()
+multiply(number**)
 
-divide()
+divide(number//)
