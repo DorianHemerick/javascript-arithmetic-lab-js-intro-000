@@ -1,6 +1,6 @@
-add(){
-  number++
-}
+add()
+  var number++
+
 
 subtract(){
   number--
