@@ -9,4 +9,6 @@ multiply(number){
   number *
 }
 
-divide(number)
+divide(number){
+  number /
+}
