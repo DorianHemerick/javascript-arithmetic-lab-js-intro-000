@@ -1,6 +1,4 @@
-function add(number){
-  +number
+function add(a,b){
+  a + b
 }
-function subtract(number){
-  -number
-}
+
