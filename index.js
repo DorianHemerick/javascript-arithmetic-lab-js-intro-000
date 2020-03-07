@@ -4,11 +4,3 @@ function add(number){
 function subtract(number){
   -number
 }
-
-multiply(number){
-  *number
-}
-
-divide(number){
-  /number
-}
