@@ -1,1 +1,1 @@
-add(number++)
+add(number)
