@@ -1,5 +1,5 @@
 add()
-  var number++
+  var number
 
 
 subtract(){
