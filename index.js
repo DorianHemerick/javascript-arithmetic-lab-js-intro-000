@@ -1,1 +1,3 @@
-function add(number)
+function add(number){
+  number++
+}
