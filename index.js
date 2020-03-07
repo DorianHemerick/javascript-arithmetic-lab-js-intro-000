@@ -1,14 +1,14 @@
 function add(number){
-number +
+  +number 
 }
 function subtract(number){
-  number -
+  -number 
 }
 
 multiply(number){
-  number *
+  *number 
 }
 
 divide(number){
-  number /
+  /number 
 }
