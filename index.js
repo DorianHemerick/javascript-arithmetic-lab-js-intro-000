@@ -1,2 +1,1 @@
-add()
-  var number
+add(number++)
