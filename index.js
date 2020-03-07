@@ -1,7 +1,7 @@
-add(1 + 80)
+add()
 
-subtract(60-40)
+subtract()
 
-multiple(2 * 3.4)
+multiply()
 
-divide(5.0 / 2.5)
+divide()
