@@ -1,7 +1,13 @@
-add(number++)
+add(){
+  number++
+}
 
-subtract(number--)
+subtract(){
+  number--
+}
 
-multiply(number**)
+multiply(){
+  number**
+}
 
-divide(number//)
+divide()
